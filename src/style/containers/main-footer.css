@@ -1,0 +1,9 @@
+.main-footer{  
+  text-align: center;
+}
+
+.main-footer p{
+  margin-top: var(--gap-medium);
+  padding: var(--gap-smaller) 0;
+  font-size: 12px;
+}

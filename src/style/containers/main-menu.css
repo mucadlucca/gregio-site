@@ -1,0 +1,20 @@
+.main-menu {
+  display: flex;  
+  align-items: center;
+  padding-bottom: var(--gap-smaller) ;
+}
+
+.main-menu > .simple-paragraph {
+  font-size: 20px;
+  color: var(--color-second);    
+}
+
+.main-menu > .simple-action {  
+  color: var(--color-second);
+  text-decoration: none;  
+}
+
+.main-menu img {
+  width: 30px;
+  margin-left: 10px;  
+}

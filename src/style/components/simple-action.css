@@ -1,0 +1,5 @@
+.simple-action{
+  color: var(--color-second);  
+  text-decoration: none;
+  font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}

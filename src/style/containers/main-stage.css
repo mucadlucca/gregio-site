@@ -1,0 +1,16 @@
+.main-stage {  
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  flex-direction: column;
+}
+
+.main-stage img {  
+  width: 250px;
+  margin-bottom: var(--gap-medium);
+}
+
+.main-stage > .simple-title{
+  font-size: 24px;
+}

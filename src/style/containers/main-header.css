@@ -1,0 +1,6 @@
+.main-header {
+  display: flex;  
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--gap-smaller) var(--gap-medium) 0;  
+}

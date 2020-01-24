@@ -1,0 +1,20 @@
+.simple-article{
+  position: absolute; 
+  bottom: 25vh;
+  left: 5vh;
+  z-index: 10;
+
+}
+
+.simple-article > .simple-subtitle{
+  font-size: 18px;  
+  padding: var(--gap-small) var(--gap-smaller);
+}
+
+@media screen and (min-width: 960px) {
+  .simple-article {
+    bottom: 16vh;
+    left: 10vh;
+  }
+
+}
