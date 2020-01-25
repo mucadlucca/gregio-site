@@ -1,9 +1,8 @@
 .simple-article{
   position: absolute; 
-  bottom: 25vh;
+  bottom: 5vh;
   left: 5vh;
   z-index: 10;
-
 }
 
 .simple-article > .simple-subtitle{
@@ -13,7 +12,7 @@
 
 @media screen and (min-width: 960px) {
   .simple-article {
-    bottom: 16vh;
+    bottom: 5vh;
     left: 10vh;
   }
 
