@@ -15,5 +15,10 @@
     bottom: 5vh;
     left: 10vh;
   }
+}
 
+@media screen and (max-height: 550px) {
+  .simple-article{
+    visibility: hidden;
+  }
 }
